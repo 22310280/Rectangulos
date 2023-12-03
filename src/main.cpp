@@ -7,7 +7,8 @@
 using namespace std;
 
 
-int main() {
+int main() 
+{
 
     //auto cmdl = argh::parser(argc, argv);
     Funcion funcion;

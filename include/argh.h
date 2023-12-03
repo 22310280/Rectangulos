@@ -182,3 +182,4 @@ namespace argh
       std::set<std::string> registeredParams_;
       std::string empty_;
    };
+}
